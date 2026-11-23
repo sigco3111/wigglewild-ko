@@ -8,6 +8,18 @@
 
 **원작 플레이:** https://patch.gg/games/blendi/wigglewild
 
+## 스크린샷
+
+![타이틀 화면](docs/1-screenshot-title-ko.png)
+
+![인게임 HUD와 목표 카드](docs/2-screenshot-play-hud-ko.png)
+
+![크리터 에디터](docs/3-screenshot-editor-ko.png)
+
+![연구소](docs/4-screenshot-lab-ko.png)
+
+(모두 배포본 실제 화면 캡처)
+
 ## 모드
 
 - **플레이**: 섬. 둥지에서 부화하고, 열매를 먹고, 종족을 만나세요.
